@@ -7,7 +7,7 @@ main contents:
 - tutorial.ipynb
 - tutorial.py
 
-plot output folders:
+output folders:
 - plots_cluster_distances
 - plots_cluster_size
 - plots_perplexity_gaussian
